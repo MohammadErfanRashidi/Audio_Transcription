@@ -1,6 +1,6 @@
 # Speech-to-Text Transcription
 
-This repository contains a Python script for transcribing audio files to text using the SpeechRecognition and pydub libraries. 
+This repository contains a Python script for transcribing audio files to **plain** text using the SpeechRecognition and pydub libraries. 
 
 ## Setup
 
